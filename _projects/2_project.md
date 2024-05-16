@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Penguinnie Render
+description: assignments for CSE168, an Optix path tracer featured with importance sampling, temporal-debiasing
 img: assets/img/3.jpg
 importance: 2
 category: work

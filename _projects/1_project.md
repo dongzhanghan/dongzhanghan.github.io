@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: La Jolla Render
+description: assignments for CSE272, a C++ path tracer featured with Disney bsdf, volumetric path tracing and ReSTIR DI.
+img: assets/img/1.jpg
 importance: 1
 category: work
 related_publications: true
