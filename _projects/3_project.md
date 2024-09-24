@@ -5,7 +5,7 @@ description: final project for CSE291 implemented with Loma
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
